@@ -8,7 +8,7 @@ Pour les paumer comme moi ça a eu plusieurs utilité, déjà comprendre que les
 
 Ensuite ça ma appris comment on subissait la doc au moyen age du code, bah wai avant gpt on pleurait probablement du sang en s’éclatant les yeux sur des site sans css tout moche ou directement dans le terminal comme des bon fou furieux juste pour comprendre ce que fessait une fonction a un seul paramètre et qui return un int, ptn c'est fou penser y 2 secondes.
 
-Plus sérieusement ça donne une vrais compression sur l'importance des vérification constantes et des tests unitaire, ce qui est la base de ma façons de dév depuis ce projet, Je fait une fonction j’essaye de la détruire par tout les moyens et si après moult tests elle est toujours debout je passe a la suivante et je recommence, de sorte a se que mon code reste toujours bien solide, si ça casse c'est dans mon taff le plus récent et c'est le but, avoir une base solide qui se renforce avec le temps au lieu d'un château de carte foireux.
+Plus sérieusement ça donne une vrais compression sur l'importance des vérification constantes et des tests unitaire, ce qui est la base de ma façons de dév depuis ce projet, je fait une fonction j’essaye de la détruire par tout les moyens et si après moult tests elle est toujours debout je passe a la suivante et je recommence, de sorte a se que mon code reste toujours bien solide, si ça casse c'est dans mon taff le plus récent et c'est le but, avoir une base solide qui se renforce avec le temps au lieu d'un château de carte foireux.
 
 ## 📌 Table des Matières
 
@@ -54,7 +54,7 @@ Franchement c'est une introduction très nul je trouve, pas de vrais mise en sit
 
 ### - Ajouts Personnels
 
-🎯 Pour répondre à des besoins spécifiques, plusieurs fonctions additionnelles que j'ai ajoutées. 🛠️
+🎯 Pour répondre à des besoins spécifiques, plusieurs fonctions additionnelles que j'ai ajoutées.
 
 Alors vous moquer pas elles on été faite parfois a l’arrache, pour des cas particulier et elle sont des fois redondante avec une fonction déjà existante aux qu'elle je n'ai pas penser sur le coup :
 
@@ -96,9 +96,9 @@ Pour compiler et utiliser la bibliothèque **libft** :
 
 1\. Ajoutez `#include "libft.h"` dans vos fichiers source.
 
-2\. Compilez votre projet en liant la bibliothèque **libft**. 3.
+2\. Compilez votre projet en liant la bibliothèque **libft**.
 
-Profitez des fonctions utiles de cette magnifique bibliothèque !
+3\.Profitez des fonctions utiles de cette magnifique bibliothèque !
 
 ## 🔗 Dépendances
 
