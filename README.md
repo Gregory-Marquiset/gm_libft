@@ -1,8 +1,8 @@
-# libft
+# La libft
 
 ## 📚 Introduction
 
-Bon faut bien commencer quelque part, et la **libft** c'est pas mal comme starter dans le monde du dév, littéralement la caisse a outils du C a 42 regroupant des fonctions utilitaires pour simplifier et accélérer le développement des projets suivant et on va pas refaire des strlen toutes les 2 secondes après tout.
+Bon faut bien commencer quelque part, et la **libft** c'est pas mal comme starter dans le monde du dév, littéralement la caisse a outils du C a 42 regroupant des fonctions utilitaires pour simplifier et accélérer le développement des projets suivant et puis on va pas refaire des strlen toutes les 2 secondes après tout.
 
 Pour les paumer comme moi ça a eu plusieurs utilité , déjà comprendre que les librairie c'est pas magique et qu'il y'a des mecs avec des dégaine de savant fou, probablement super vieux (voir mort) maintenant, qui se sont casser le cul a inventer la roue pour qu'on ai pas a le faire, merci a eux (la bise surtout 😘).&#x20;
 
