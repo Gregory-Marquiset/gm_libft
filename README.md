@@ -117,7 +117,7 @@ Certains projet suivant on été ajouter pour plus de possibilité, **get\_next\
 
 ---
 
-##📖 Note :
+## 📖 Note :
 
 - Merci de consulter le wiki pour des détails techniques et des conseils sur les différentes fonctions, tout peut êtres modifier ou supprimer a tout moment profiter en temps que c'est la mes poulets.
 - La bibliothèque est mise a jour si j'en ressent le besoin ou que je voie une propal intéressante.
