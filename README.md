@@ -28,7 +28,7 @@ Plus sérieusement ça donne une vrais compression sur l'importance des vérific
 
 🎯 La partie obligatoire regroupe les fonctions les plus courantes de la libc, réécrites pour s’approprier leur fonctionnement.
 
-Rien d'original ici c'est du vu et revu mais ça donne des idées sur comment au fur et a mesure des projet suivant, on peut standardiser des fonctions pour leurs donner une grande flexibiliser et avoir un outils polyvalent facilement :
+Rien d'original ici c'est du vu et revu mais ça donne des idées sur comment au fur et a mesure des projet suivant, on peut standardiser des fonctions pour leurs donner une grande flexibiliser et avoir des outils polyvalent facilement :
 
 - **Gestion des chaînes** :
   - ✨ `ft_strlen`, `ft_strdup`, `ft_strjoin`, `ft_substr`, `ft_strtrim`, `ft_strchr`, `ft_strrchr`, `ft_strncmp`, `ft_strnstr`, `ft_strmapi`, `ft_striteri`
@@ -45,7 +45,7 @@ Rien d'original ici c'est du vu et revu mais ça donne des idées sur comment au
 
 🎯 La partie bonus est centrée sur la gestion des listes chaînées.
 
-Franchement c'est une introduction très nul je trouve, pas de vrais mise en situation, difficile a tester pour le niveau qu'on est sensé avoir et pas claire sur l'étendue des possibilité que les structures et listes offres, c'est vraiment dommage, j'ai du attendre push-swap pour bien comprendre c'est 2 outils qui sont incroyable :
+Franchement c'est une introduction très nul je trouve, pas de vrais mise en situation, difficile a tester pour le niveau qu'on est sensé avoir et pas claire sur l'étendue des possibilité que les structures et listes offres, c'est vraiment dommage, j'ai du attendre push-swap pour bien comprendre ce que permettent ces 2 outils qui sont incroyable :
 
 - **Création et manipulation** :
   - 🌟 `ft_lstnew`, `ft_lstadd_front`, `ft_lstadd_back`, `ft_lstsize`, `ft_lstlast`
@@ -104,12 +104,12 @@ Profitez des fonctions utiles de cette magnifique bibliothèque !
 
 Normalement aucune, mais je peut me tromper, je ne suis que presque parfait après tout.
 
-## 📥️ Liens vers les dépôts supplémentaires
+## 📥️ Liens vers les dépôts supplémentaires (a venir)
 
 Certains projet suivant on été ajouter pour plus de possibilité, **get\_next\_line** et **ft\_printf**, sont disponibles mais pas détailler ici, il le sont dans leurs repos respectif :
 
-- [get\_next\_line Repository](https://github.com/<votre-utilisateur>/get_next_line)
-- [ft\_printf Repository](https://github.com/<votre-utilisateur>/ft_printf)
+- get_next_line Repository
+- ft_printf Repository
 
 ## ✍️ Créateur, contributeurs principale et homme fart du projet
 
@@ -119,10 +119,8 @@ Certains projet suivant on été ajouter pour plus de possibilité, **get\_next\
 
 ## 📖 Note :
 
-- Merci de consulter le wiki pour des détails techniques et des conseils sur les différentes fonctions, tout peut êtres modifier ou supprimer a tout moment profiter en temps que c'est la mes poulets.
-- La bibliothèque est mise a jour si j'en ressent le besoin ou que je voie une propal intéressante.
-
-  Alors n’hésite pas à ouvrir une issue ou une pull request que je pourrait ignorer comme le plus bg de t'est crush qui te lâche un vu.
+- Merci de consulter le wiki pour des détails techniques et des conseils sur les différentes fonctions, tout peut êtres modifier ou supprimer a tout moment, alors profiter en tant que c'est là mes poulets.
+- La bibliothèque est mise a jour si j'en ressent le besoin ou que je voie une propal intéressante. Alors n’hésite pas à ouvrir une issue ou une pull request que je pourrait ignorer comme le plus bg de t'est crush qui te lâche un vu.
 
 **Et le bisous ma gueule, c'est important.**
 
