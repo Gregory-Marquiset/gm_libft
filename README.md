@@ -12,14 +12,14 @@ Plus sérieusement ça donne une vrais compression sur l'importance des vérific
 
 ## 📌 Table des Matières
 
-- 📍 [Fonctionnalités](#fonctionnalités)
-  - 🚩 [Partie Obligatoire](#partie-obligatoire)
-  - 🚩 [Partie Bonus](#partie-bonus)
+- 📍 Fonctionnalités
+  - 🚩 Partie Obligatoire
+  - 🚩 Partie Bonus
   - 🚩 Ajouts Personnels
-- 📍 [Installation](#installation)
-- 📍 [Utilisation](#utilisation)
+- 📍 Installation
+- 📍 Utilisation
 - 📍 Dépendances
-- 📍 [Liens vers les dépôts supplémentaires](#liens-vers-les-dépôts-supplémentaires)
+- 📍 Liens vers les dépôts supplémentaires
 - 📍 Contributeurs
 
 ## 📋 Fonctionnalités
